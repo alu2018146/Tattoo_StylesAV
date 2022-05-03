@@ -10,9 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TattooStylesAV">
         <activity
+            android:name=".ActivityForgotPassword"
+            android:exported="false" />
+        <activity
+            android:name=".ActivitySignIn"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action." />
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
