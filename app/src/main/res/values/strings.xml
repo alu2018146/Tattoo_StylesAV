@@ -1,13 +1,16 @@
 <resources>
     <string name="app_name" translatable="false">Tattoo Styles</string>
+    <string name="Tattoo_Styles_Logo" translatable="false">Tattoo Styles Logo</string>
+    <string name="Username">Username</string>
     <string name="User">User</string>
     <string name="Password">Password</string>
     <string name="Forgot_Password">Forgot password?</string>
     <string name="Log_in">Log in</string>
     <string name="Sign_in">Sign in</string>
     <string name="Name">Name</string>
-    <string name="Email">Email</string>
+    <string name="Email">E-mail</string>
     <string name="Birth_date">Birth date</string>
     <string name="NoAccount">Haven\'t signed in yet?</string>
-    <string name="Tatto_Styles_Logo" translatable="false">Tatto Styles Logo</string>
+    <string name="ConfirmPassword">Confirm password</string>
+    <string name="RecoverPassword">Recover Password</string>
 </resources>

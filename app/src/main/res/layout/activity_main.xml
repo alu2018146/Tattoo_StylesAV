@@ -59,7 +59,7 @@
         android:layout_width="239dp"
         android:layout_height="239dp"
         android:layout_marginTop="8dp"
-        android:contentDescription="@string/Tatto_Styles_Logo"
+        android:contentDescription="@string/Tattoo_Styles_Logo"
         app:cardCornerRadius="100dp"
         app:cardElevation="5dp"
         app:layout_constraintEnd_toEndOf="parent"

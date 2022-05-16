@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TattooStylesAV">
         <activity
+            android:name=".Settings"
+            android:exported="false" />
+        <activity
             android:name=".ActivityForgotPassword"
             android:exported="false" />
         <activity
