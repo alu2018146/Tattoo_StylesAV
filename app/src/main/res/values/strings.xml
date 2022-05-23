@@ -13,4 +13,5 @@
     <string name="NoAccount">Haven\'t signed in yet?</string>
     <string name="ConfirmPassword">Confirm password</string>
     <string name="RecoverPassword">Recover Password</string>
+    <string name="DefaultProfileAvatar">Default profile avatar</string>
 </resources>

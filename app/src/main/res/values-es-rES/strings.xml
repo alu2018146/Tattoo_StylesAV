@@ -12,4 +12,5 @@
     <string name="Username">Nombre de usuario</string>
     <string name="ConfirmPassword">Confirma contraseña</string>
     <string name="RecoverPassword">Recuperar contraseña</string>
+    <string name="DefaultProfileAvatar">Avatar de perfil predeterminado</string>
 </resources>
