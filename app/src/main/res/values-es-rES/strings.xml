@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Password">Contraseña</string>
-    <string name="User">Usuario</string>
-    <string name="Log_in">Iniciar sesión</string>
-    <string name="Forgot_Password">¿Olvidaste la contraseña?</string>
-    <string name="Sign_in">Registrarse</string>
-    <string name="Name">Nombre</string>
-    <string name="Email">Correo electrónico</string>
-    <string name="Birth_date">Fecha de nacimiento</string>
-    <string name="NoAccount">¿Todavía no has iniciado sesión?</string>
-    <string name="Username">Nombre de usuario</string>
-    <string name="ConfirmPassword">Confirma contraseña</string>
-    <string name="RecoverPassword">Recuperar contraseña</string>
+    <string name="password">Contraseña</string>
+    <string name="user">Usuario</string>
+    <string name="log_in">Iniciar sesión</string>
+    <string name="forgot_password">¿Olvidaste la contraseña?</string>
+    <string name="sign_in">Registrarse</string>
+    <string name="name">Nombre</string>
+    <string name="email">Correo electrónico</string>
+    <string name="birth_date">Fecha de nacimiento</string>
+    <string name="no_account">¿Todavía no has iniciado sesión?</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="confirm_password">Confirma contraseña</string>
+    <string name="recover_password">Recuperar contraseña</string>
+    <string name="default_profile_avatar">Avatar de perfil predeterminado</string>
+    <string name="user_type">Tipo de usuario</string>
 </resources>
